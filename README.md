@@ -1,2 +1,4 @@
-# Cryptografia-y-Estenograf-a-en-C
-Cryptografia y Estenografía implementación en C.
+# Cryptografia-y-Estenografía-en-C
+Cryptografia y Estenografía 
+
+Implementación en C.
