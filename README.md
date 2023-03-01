@@ -44,19 +44,19 @@ Luego se busca un exponente “e” tal que, cumpla con las siguientes condicion
 2. No ser un factor de n.
 3. 1 < e < ∅
 
-La clave pública estaría formada por n y e.
+La clave pública estaría formada por "n" y "e".
 
 ### Cifrado
-Utilizando la clave publica podemos cifrar un número M de la siguiente manera:
+Utilizando la clave publica podemos cifrar un número "M" de la siguiente manera:
 
 * C=M^e mod(n)
 
 ### Generación Clave Privada
-Utilizando el mismo n que la clave pública. Se busca un exponente d tal que, sea el inverso multiplicativo modular entre e y fi:
+Utilizando el mismo "n" que la clave pública. Se busca un exponente "d" tal que, sea el inverso multiplicativo modular entre "e" y "fi":
 
 * d = inv (e, ∅ (n)) 	
 
 ### Descifrado
-Utilizando la clave privada podemos descifrar un número M de la siguiente manera:
+Utilizando la clave privada podemos descifrar un número "M" de la siguiente manera:
 
 * M=C^e mod(n)
