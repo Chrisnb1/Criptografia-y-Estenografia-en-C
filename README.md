@@ -18,5 +18,4 @@ git clone https://github.com/Chrisnb1/Criptografia-y-Estenografia-en-C
 * imagen.h - contiene todos los prototipos de las funciones que se encuentran definidas en imagen.c
 * imagen.c - archivo fuente para generar la imagen e introducir el mensaje en ella.
 * crypt.h - contiene todos los prototipos de las funciones que se encuentran definidas en crypt.c y imagen.c
-* crypt.c - archivo fuente para generar las variables que contemplan las claves públicas y privadas del algoritmo RSA.
 
