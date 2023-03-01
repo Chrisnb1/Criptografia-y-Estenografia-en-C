@@ -1,4 +1,4 @@
-# Criptografia y Estenografía en C
+# Criptografía y Estenografía en C
 
 Proyecto: Ocultamiento de mensaje encriptado en una imagen. Hecho en C.
 
